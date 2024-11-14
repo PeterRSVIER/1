@@ -1,0 +1,1 @@
+0 16 * * * cd C:\Users\peter\git && python3 commit_bot.py
